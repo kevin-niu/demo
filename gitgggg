@@ -1,0 +1,16 @@
+git init  初始化一个仓库
+git add .
+git commit 
+git branch -a  查看仓库所以的分支
+git checkout 分支名  切换分支
+git branch 查看当前使用分支
+
+
+git clone XXXXX  拉取原创仓科代码
+
+git pull  拉取下载  
+git push  上传
+
+git branch -a  查看所有分支
+git remote -v   查看git 仓库地址
+git clone -b  分支名 仓库地址
